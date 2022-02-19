@@ -1,4 +1,4 @@
-# themes-and-addons-documentation
+# Pterodactyl Themes and Addons Documentation
 The different documentation needed to install the Pterodactyl themes and addons made by AktiCube
 
 ## Documentation for :
