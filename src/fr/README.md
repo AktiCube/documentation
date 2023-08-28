@@ -1,7 +1,7 @@
 ---
 home: true
 icon: home
-title: Project home
+title: Home
 heroImage: /logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
@@ -258,12 +258,6 @@ highlights:
         details: Make your site more like an APP
         link: https://theme-hope.vuejs.press/guide/advanced/pwa.html
 
-copyright: false
-footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | MIT Licensed, Copyright © 2019-present Mr.Hope
+copyright: © 2020 - 2023 AktiCube Development Team. Tous droits réservés.
+footer: <a href="https://discord.gg/we3WzvFM5C" target="_blank">Discord</a> | <a href="https://x.com/AktiCube" target="_blank">Twitter (X)</a> | <a href="https://instagram.com/akticube" target="_blank">Instagram</a>
 ---
-
-This is an example of a project homepage. You can place your main content here.
-
-To use this layout, you need to set `home: true` in the page front matter.
-
-For related descriptions of configuration items, please see [Project HomePage Layout Config](https://theme-hope.vuejs.press/guide/layout/home/).
