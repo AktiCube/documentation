@@ -4,36 +4,32 @@ export const enNavbar = navbar([
   {
     text: "Product",
     icon: "shop",
-    prefix: "/en/products/",
+    prefix: "/en/products",
     children: [
       {
         text: "Pterodactyl",
         icon: "shop",
-        prefix: "/pterodactyl/",
+        prefix: "/pterodactyl",
         children: [
           {
             text: "Automatic-phpMyAdmin",
             icon: "/assets/icon/pterodactyl/Automatic-phpMyAdmin-16x16.png",
-            prefix: "/automatic-phpmyadmin/",
-            children: [],
+            link: "/Automatic-phpMyAdmin"
           },
           {
             text: "Permission-Manager",
             icon: "/assets/icon/pterodactyl/Permission-Manager-16x16.png",
-            prefix: "/permission-manager/",
-            children: [],
+            link: "/Permission-Manager"
           },
           {
             text: "Choosable-Start-Command",
             icon: "/assets/icon/pterodactyl/Choosable-Start-Command-16x16.png",
-            prefix: "/choosable-start-command/",
-            children: [],
+            link: "/Choosable-Start-Command"
           },
           {
             text: "Node-Backup",
             icon: "/assets/icon/pterodactyl/Node-Backup-16x16.png",
-            prefix: "/node-backup/",
-            children: [],
+            link: "/Node-Backup"
           }
         ]
       }
@@ -69,36 +65,31 @@ export const enNavbar = navbar([
   {
     text: "Docs",
     icon: "lightbulb",
-    prefix: "/en/docs/",
+    prefix: "/en/docs",
     children: [
       {
         text: "Pterodactyl",
-        prefix: "/pterodactyl/",
+        prefix: "/pterodactyl",
         children: [
           {
             text: "Automatic-phpMyAdmin",
             icon: "/assets/icon/pterodactyl/Automatic-phpMyAdmin-16x16.png",
-            prefix: "/automatic-phpmyadmin/",
-            children: [],
+            link: "/Automatic-phpMyAdmin"
           },
           {
             text: "Permission-Manager",
             icon: "/assets/icon/pterodactyl/Permission-Manager-16x16.png",
-            prefix: "/permission-manager/",
-            children: [],
+            link: "/Permission-Manager"
           },
           {
             text: "Choosable-Start-Command",
             icon: "/assets/icon/pterodactyl/Choosable-Start-Command-16x16.png",
-            prefix: "/permission-manager/",
-            children: [],
+            link: "/Choosable-Start-Command"
           },
-          
           {
             text: "Node-Backup",
             icon: "/assets/icon/pterodactyl/Node-Backup-16x16.png",
-            prefix: "permission-manager/",
-            children: [],
+            link: "/Node-Backup"
           }
         ]
       }
