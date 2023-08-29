@@ -1,5 +1,4 @@
 ---
-lang: fr-FR
-
+home: home
 ---
 Bonjour, Monde !
