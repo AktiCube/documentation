@@ -15,6 +15,6 @@ export default defineUserConfig({
       description: "La documentation utilisée pour chaque projet d'AktiCube Development Team.",
     },
   },
-  theme,
+  theme: theme,
   shouldPrefetch: false,
 });

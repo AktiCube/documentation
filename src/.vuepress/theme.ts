@@ -9,17 +9,18 @@ export default hopeTheme({
     url: "https://discord.gg/we3WzvFM5C",
   },
   iconAssets: "fontawesome-with-brands",
-  logo: "/logo.svg",
+  logo: "https://akticu.be/AktiCube/AktiCube%202048x2048.png",
+  favicon: "https://akticu.be/AktiCube/AktiCube%202048x2048.png",
+  footer: "<a href=\"https://discord.gg/we3WzvFM5C\" target=\"_blank\">Discord</a> | <a href=\"https://x.com/AktiCube\" target=\"_blank\">Twitter (X)</a> | <a href=\"https://instagram.com/akticube\" target=\"_blank\">Instagram</a>",
+  displayFooter: true,
+  editLink: true,
+  contributors: true,
   repo: "AktiCube/themes-and-addons-documentation",
   docsDir: "src",
   locales: {
     "/en/": {
       navbar: enNavbar,
       sidebar: enSidebar,
-      footer: "Default footer",
-      displayFooter: true,
-      editLink: false,
-      contributors: true,
       metaLocales: {
         date: "Last Updated",
       },
@@ -27,10 +28,6 @@ export default hopeTheme({
     "/fr/": {
       navbar: frNavbar,
       sidebar: frSidebar,
-      footer: "Pied de page par défaut",
-      displayFooter: true,
-      editLink: false,
-      contributors: true,
       metaLocales: {
         date: "Dernière mise-à-jour",
       },
