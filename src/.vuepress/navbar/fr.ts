@@ -2,7 +2,12 @@ import { navbar } from "vuepress-theme-hope";
 
 export const frNavbar = navbar([
   {
-    text: "Product",
+    text: "Home",
+    icon: "home",
+    link: "/fr"
+  },
+  {
+    text: "Nos produits",
     icon: "shop",
     prefix: "/fr/products",
     children: [
@@ -36,7 +41,7 @@ export const frNavbar = navbar([
     ]
   },
   {
-    text: "Our Market Profile",
+    text: "Nos pages de ventes",
     icon: "shop",
     children: [
       {
@@ -64,7 +69,7 @@ export const frNavbar = navbar([
   },
   {
     text: "Docs",
-    icon: "lightbulb",
+    icon: "book",
     prefix: "/fr/docs",
     children: [
       {

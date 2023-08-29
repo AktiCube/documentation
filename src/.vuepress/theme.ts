@@ -13,9 +13,9 @@ export default hopeTheme({
   favicon: "https://akticu.be/AktiCube/AktiCube%202048x2048.png",
   footer: "<a href=\"https://discord.gg/we3WzvFM5C\" target=\"_blank\">Discord</a> | <a href=\"https://x.com/AktiCube\" target=\"_blank\">Twitter (X)</a> | <a href=\"https://instagram.com/akticube\" target=\"_blank\">Instagram</a>",
   displayFooter: true,
-  editLink: true,
+  editLink: false,
   contributors: true,
-  repo: "AktiCube/themes-and-addons-documentation",
+  repo: "AktiCube/themes-and-addons-documentation/tree/wiki",
   docsDir: "src",
   locales: {
     "/en/": {
