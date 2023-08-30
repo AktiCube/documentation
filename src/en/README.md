@@ -1,9 +1,9 @@
 ---
-lang: en-US
-title: Title of this page
-description: Description of this page
 
+home: true
+icon: home
+title: Home
+tagline: This is a TESTTTT
 
 ---
-
 Hello, World !
