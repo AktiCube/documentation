@@ -49,14 +49,17 @@ export const frNavbar = navbar([
         children: [
           {
             text: "PterodactylMarket",
+            icon: "/assets/icon/market/PterodactylMarket-16x16.png",
             link: "https://pterodactylmarket.com/team/6227976"
           },
           {
             text: "SourceXChange",
+            icon: "/assets/icon/market/SourceXChange-16x16.png",
             link: "https://www.sourcexchange.net/teams/5/profile"
           },
           {
             text: "BuildByBit",
+            icon: "/assets/icon/market/BuildByBit-16x16.png",
             link: "https://builtbybit.com/creators/louis_xi.287614/"
           }
         ]
