@@ -4,7 +4,7 @@ import theme from "./theme.js";
 export default defineUserConfig({
   base: "/",
   locales: {
-    "/en/": {
+    "/": {
       lang: "en-US",
       title: "Docs",
       description: "The documentation used for every AktiCube Development Team project.",

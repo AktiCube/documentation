@@ -1,9 +1,8 @@
 ---
-
 home: true
 icon: home
 title: Home
-tagline: This is a TESTTTT
-
+tagline: This is a testt
 ---
+
 Hello, World !
