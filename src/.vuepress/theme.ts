@@ -18,7 +18,7 @@ export default hopeTheme({
   repo: "AktiCube/themes-and-addons-documentation/tree/wiki",
   docsDir: "src",
   locales: {
-    "/en/": {
+    "/": {
       navbar: enNavbar,
       sidebar: enSidebar,
       metaLocales: {

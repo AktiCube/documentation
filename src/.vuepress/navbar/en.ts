@@ -4,12 +4,12 @@ export const enNavbar = navbar([
   {
     text: "Home",
     icon: "home",
-    link: "/en"
+    link: "/"
   },
   {
     text: "Product",
     icon: "shop",
-    prefix: "/en/products",
+    prefix: "/products",
     children: [
       {
         text: "Pterodactyl",
@@ -73,7 +73,7 @@ export const enNavbar = navbar([
   {
     text: "Docs",
     icon: "book",
-    prefix: "/en/docs",
+    prefix: "/docs",
     children: [
       {
         text: "Pterodactyl",
